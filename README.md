@@ -17,13 +17,18 @@
 
 - 🎬 **Full-time freelance video editor** since Sep 2025, with ~50 clients worldwide: creators, coaches, agencies and real-estate businesses.
 - 🎓 **3rd-year B.Tech student** in Computer Science & Technology at MAKAUT, West Bengal (2024–2028).
-- 💻 I build web apps with **React, Vite, Node.js and Express**, and native Android features in **Kotlin**.
+- 💻 I build web apps with **React, Vite, Node.js and Express**, and Android apps with **React Native, Expo and Kotlin**.
 - 🤖 I combine code and video: I build edits programmatically with **Claude Code + Remotion + HyperFrames** and use AI tools like Firefly, Higgsfield and ElevenLabs.
 - 🤝 Open to **video editing work, internships and remote roles**.
 
 ---
 
 ### Projects
+
+#### 📝 A Note: Client Video & Delivery Tracker · *new*
+A local-first mobile app for video editors and freelancers to track client videos, payments and progress, with all data stored on the device. Includes a voice assistant for hands-free updates, PDF and Excel reports, backup and restore, and 4 color themes.
+<br/>**Stack:** React Native · Expo · TypeScript · SQLite · EAS Build
+<br/>[Code](https://github.com/toufiqalam2004-a11y/a-note)
 
 #### 🔥 Job Hunter (Tinder for Freelancers) · *solo project*
 A swipe-based job discovery platform for freelancers. Swipe through listings, track applications and manage leads in one place.
@@ -63,7 +68,7 @@ I specialise in talking-head Reels and also edit YouTube videos, UGC ads, and fi
 **Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,js,react,nodejs,express,vite,tailwind,kotlin,androidstudio,python,git,github,vercel&theme=dark" alt="C, JavaScript, React, Node.js, Express, Vite, Tailwind, Kotlin, Android, Python, Git, GitHub, Vercel"/>
+  <img src="https://skillicons.dev/icons?i=c,js,ts,react,nodejs,express,vite,tailwind,kotlin,androidstudio,python,git,github,vercel&theme=dark" alt="C, JavaScript, TypeScript, React, Node.js, Express, Vite, Tailwind, Kotlin, Android, Python, Git, GitHub, Vercel"/>
 </p>
 
 **Video & AI**
